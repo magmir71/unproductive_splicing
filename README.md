@@ -6,4 +6,6 @@ Before running the notebooks, please start PostgreSQL server, download the dumpe
 
 Requirements:
 1. PostgreSQL 10.18 or newer
-2. 
+2. Python v. 3.8.2 or newer
+
+The list of used python libraries can be found at the beginning of jupyter notebooks.
