@@ -1,0 +1,238 @@
+gene_name	AS_event_position	AS type	regulator	regulation	eCLIP (POSTAR3)	other CLIP (POSTAR3)	reports in papers
+CPSF7	exon 4	essential exon	SNRPB	NMD-inhibiting	0	0	0
+DLG4	exon 17	essential exon	PTBP1	NMD-promoting	1	1	0
+DLG4	exon 17	essential exon	PTBP2	NMD-promoting	0	0	0
+EZH2	exon 8a	poison exon	SRSF2	NMD-promoting	0	0	1
+FUS	exon 7	essential exon	FUS	NMD-promoting	1	0	0
+FUS	exon 7	essential exon	TARDBP	NMD-inhibiting	0	0	1
+GABBR1	exon 15	essential exon	PTBP1	NMD-promoting	1	1	0
+HNRNPA2B1	3'UTR	intron detention	HNRNPA1	NMD-promoting	1	1	1
+HNRNPA2B1	3'UTR	intron detention	HNRNPA2B1	NMD-promoting	0	0	0
+HNRNPD	3'UTR	poison exon	HNRNPD	NMD-promoting	0	1	0
+HNRNPD	3'UTR	poison exon	HNRNPDL	NMD-promoting	0	0	0
+HNRNPDL	3'UTR	poison exon	HNRNPD	NMD-promoting	0	0	0
+HNRNPDL	3'UTR	poison exon	HNRNPDL	NMD-promoting	0	0	1
+HNRNPL	exon 6a	poison exon	HNRNPL	NMD-promoting	0	0	1
+HNRNPL	exon 6a	poison exon	HNRNPLL	NMD-promoting	0	0	1
+HNRNPL	exon 6a	poison exon	SRSF3	NMD-inhibiting	0	0	0
+HNRNPLL	exon 6a	poison exon	HNRNPL	NMD-promoting	0	0	0
+HPS1	exon 18	poison 5' splice site	PTBP1	NMD-inhibiting	0	1	1
+INTS3	intron 4	intron retention	SRSF2	NMD-promoting	0	0	0
+LMNA	exon 2a	poison exon	PTBP1	NMD-inhibiting	0	1	0
+LMNA	exon 2a	poison exon	PTBP2	NMD-inhibiting	0	0	0
+MDM4	exon 6	essential exon	SRSF11	NMD-promoting	0	0	0
+MDM4	exon 6	essential exon	SRSF3	NMD-inhibiting	0	0	1
+MDM4	exon 6	essential exon	SRSF7	NMD-promoting	0	0	0
+MDM4	exon 6	essential exon	SRSF9	NMD-promoting	0	0	0
+PTBP1	exon 11	essential exon	PTBP1	NMD-promoting	0	1	0
+PTBP1	exon 11	essential exon	PTBP2	NMD-promoting	0	0	0
+PTBP1	exon 11	essential exon	RBM4	NMD-promoting	0	0	0
+PTBP1	exon 11	essential exon	SRSF3	NMD-inhibiting	0	0	0
+PTBP2	exon 10	essential exon	ELAVL1	NMD-promoting	0	1	0
+PTBP2	exon 10	essential exon	PTBP1	NMD-promoting	1	1	0
+PTBP2	exon 10	essential exon	PTBP2	NMD-promoting	0	0	0
+PTBP2	exon 10	essential exon	PTBP3	NMD-promoting	0	0	0
+PTBP2	exon 10	essential exon	RBFOX2	NMD-inhibiting	1	0	0
+PTBP2	exon 10	essential exon	RBM4	NMD-promoting	0	0	0
+PTBP2	exon 10	essential exon	SRRM4	NMD-inhibiting	0	1	0
+PTBP2	exon 10	essential exon	SRSF3	NMD-inhibiting	0	0	0
+PTBP3	exon 2	essential exon	PTBP1	NMD-promoting	1	1	0
+PTBP3	exon 2	essential exon	PTBP2	NMD-promoting	0	0	0
+RBFOX2	exon 5a	poison MXE	RBFOX3	NMD-promoting	0	0	0
+RBFOX2	exon 6a	poison MXE	RBFOX3	NMD-promoting	0	0	0
+RBM10	exon 12	essential exon	RBM10	NMD-promoting	0	0	0
+RBM10	exon 6	essential exon	RBM10	NMD-promoting	0	0	0
+RBM39	exon 3	poison exon	RBM39	NMD-promoting	0	0	0
+RBM5	exon 16	essential exon	RBM10	NMD-promoting	0	0	0
+RBM5	exon 6	essential exon	RBM10	NMD-promoting	0	0	0
+REST	exon 4 ab	poison exon	SRRM4	NMD-promoting	0	0	0
+RPL10A	intron 3	intron retention	RPL10A	NMD-promoting	0	0	0
+RPL3	exon 4	poison 3' splice site	RPL3	NMD-promoting	0	0	0
+RPS3	exon 2	poison 5' splice site	RPS3	NMD-promoting	1	0	0
+SF1	exon 3	essential exon	RBFOX2	NMD-promoting	0	0	0
+SFPQ	exon 10	poison 3' splice site	SFPQ	NMD-promoting	0	0	0
+SMNDC1	exon 3a	poison exon	SMNDC1	NMD-promoting	0	0	0
+SNRNP70	exon 8a	poison exon	FUS	NMD-inhibiting	0	0	0
+SNRNP70	exon 8b	poison exon	FUS	NMD-inhibiting	0	0	0
+SNRNP70	exon 8c	poison exon	FUS	NMD-inhibiting	0	0	0
+SNRPB	exon 3a	poison exon	SNRPB	NMD-promoting	0	0	0
+SNRPB	exon 3a	poison exon	SNRPD1	NMD-promoting	0	0	0
+SNRPB	exon 3a	poison exon	SNRPN	NMD-promoting	0	0	0
+SRSF1	3'UTR	intron detention	KHDRBS1	NMD-inhibiting	0	0	1
+SRSF1	3'UTR	intron detention	SRSF1	NMD-promoting	1	1	1
+SRSF1	3'UTR	intron detention	SRSF3	NMD-inhibiting	0	0	0
+SRSF1	3'UTR	intron detention	SRSF9	NMD-promoting	1	0	1
+SRSF10	poison 5' splice site	poison exon	SRSF1	NMD-inhibiting	0	1	1
+SRSF10	poison 5' splice site	poison exon	SRSF10	NMD-promoting	0	0	0
+SRSF10	poison 5' splice site	poison exon	SRSF11	NMD-inhibiting	0	0	0
+SRSF10	poison 5' splice site	poison exon	SRSF12	NMD-promoting	0	0	0
+SRSF10	poison 5' splice site	poison exon	SRSF2	NMD-inhibiting	0	0	0
+SRSF10	poison 5' splice site	poison exon	SRSF3	NMD-inhibiting	0	0	0
+SRSF10	poison 5' splice site	poison exon	SRSF4	NMD-inhibiting	0	0	0
+SRSF10	poison 5' splice site	poison exon	SRSF6	NMD-inhibiting	0	0	0
+SRSF10	poison 5' splice site	poison exon	SRSF9	NMD-inhibiting	0	0	1
+SRSF10	poison 5' splice site	poison exon	TRA2A	NMD-promoting	0	0	1
+SRSF10	poison 5' splice site	poison exon	TRA2B	NMD-promoting	0	0	0
+SRSF11	exon 4a	series of poison exons	SRSF1	NMD-inhibiting	1	1	1
+SRSF11	exon 4a	series of poison exons	SRSF10	NMD-inhibiting	0	0	0
+SRSF11	exon 4a	series of poison exons	SRSF11	NMD-inhibiting	0	0	0
+SRSF11	exon 4a	series of poison exons	SRSF12	NMD-inhibiting	0	0	0
+SRSF11	exon 4a	series of poison exons	SRSF2	NMD-inhibiting	0	0	1
+SRSF11	exon 4a	series of poison exons	SRSF3	NMD-inhibiting	0	0	0
+SRSF11	exon 4a	series of poison exons	SRSF4	NMD-inhibiting	0	0	0
+SRSF11	exon 4a	series of poison exons	SRSF5	NMD-inhibiting	0	0	1
+SRSF11	exon 4a	series of poison exons	SRSF6	NMD-inhibiting	0	0	1
+SRSF11	exon 4a	series of poison exons	SRSF7	NMD-inhibiting	0	1	1
+SRSF11	exon 4a	series of poison exons	SRSF8	NMD-inhibiting	0	0	0
+SRSF11	exon 4a	series of poison exons	SRSF9	NMD-inhibiting	0	0	1
+SRSF11	exon 4a	series of poison exons	TRA2A	NMD-inhibiting	0	0	1
+SRSF11	exon 4a	series of poison exons	TRA2B	NMD-inhibiting	0	0	1
+SRSF12	exon 3a	poison MXE	SRSF1	NMD-inhibiting	0	1	0
+SRSF12	exon 3a	poison MXE	SRSF10	NMD-promoting	0	0	0
+SRSF12	exon 3a	poison MXE	SRSF12	NMD-promoting	0	0	0
+SRSF12	exon 3a	poison MXE	SRSF2	NMD-promoting	0	0	0
+SRSF12	exon 3a	poison MXE	SRSF4	NMD-inhibiting	0	0	0
+SRSF12	exon 3a	poison MXE	SRSF5	NMD-inhibiting	0	0	0
+SRSF12	exon 3a	poison MXE	SRSF6	NMD-inhibiting	0	0	0
+SRSF12	exon 3a	poison MXE	SRSF8	NMD-promoting	0	0	0
+SRSF12	exon 3a	poison MXE	SRSF9	NMD-inhibiting	0	0	0
+SRSF12	exon 3a	poison MXE	TRA2A	NMD-promoting	0	0	0
+SRSF2	3'UTR	intron detention	SRSF1	NMD-inhibiting	1	1	0
+SRSF2	3'UTR	intron detention	SRSF10	NMD-inhibiting	0	0	0
+SRSF2	3'UTR	intron detention	SRSF11	NMD-inhibiting	0	0	0
+SRSF2	3'UTR	intron detention	SRSF12	NMD-inhibiting	0	0	0
+SRSF2	3'UTR	intron detention	SRSF2	NMD-promoting	0	0	0
+SRSF2	3'UTR	intron detention	SRSF3	NMD-inhibiting	0	1	0
+SRSF2	3'UTR	intron detention	SRSF4	NMD-inhibiting	0	0	0
+SRSF2	3'UTR	intron detention	SRSF5	NMD-promoting	0	0	0
+SRSF2	3'UTR	intron detention	SRSF6	NMD-inhibiting	0	0	0
+SRSF2	3'UTR	intron detention	SRSF7	NMD-inhibiting	0	1	0
+SRSF2	3'UTR	intron detention	SRSF8	NMD-promoting	0	0	0
+SRSF2	3'UTR	intron detention	SRSF9	NMD-inhibiting	0	0	0
+SRSF2	3'UTR	intron detention	TRA2A	NMD-inhibiting	1	0	0
+SRSF2	3'UTR	intron detention	TRA2B	NMD-inhibiting	0	0	0
+SRSF3	exon 4	poison exon	HNRNPL	NMD-inhibiting	0	0	0
+SRSF3	exon 4	poison exon	PTBP1	NMD-inhibiting	0	1	1
+SRSF3	exon 4	poison exon	PTBP2	NMD-inhibiting	0	0	0
+SRSF3	exon 4	poison exon	RBM4	NMD-promoting	0	0	1
+SRSF3	exon 4	poison exon	SLU7	NMD-inhibiting	0	0	1
+SRSF3	exon 4	poison exon	SRSF1	NMD-inhibiting	0	1	1
+SRSF3	exon 4	poison exon	SRSF10	NMD-inhibiting	0	0	0
+SRSF3	exon 4	poison exon	SRSF11	NMD-inhibiting	0	0	0
+SRSF3	exon 4	poison exon	SRSF12	NMD-inhibiting	0	0	0
+SRSF3	exon 4	poison exon	SRSF2	NMD-inhibiting	0	0	1
+SRSF3	exon 4	poison exon	SRSF3	NMD-promoting	0	1	0
+SRSF3	exon 4	poison exon	SRSF4	NMD-inhibiting	0	0	0
+SRSF3	exon 4	poison exon	SRSF5	NMD-inhibiting	0	0	0
+SRSF3	exon 4	poison exon	SRSF6	NMD-inhibiting	0	0	1
+SRSF3	exon 4	poison exon	SRSF7	NMD-inhibiting	0	0	1
+SRSF3	exon 4	poison exon	SRSF9	NMD-inhibiting	0	1	1
+SRSF3	exon 4	poison exon	TRA2A	NMD-inhibiting	0	0	1
+SRSF3	exon 4	poison exon	TRA2B	NMD-inhibiting	0	0	1
+SRSF4	exon 2a	series of poison exons	SRSF11	NMD-inhibiting	0	0	0
+SRSF4	exon 2a	series of poison exons	SRSF2	NMD-promoting	0	0	0
+SRSF4	exon 2a	series of poison exons	SRSF4	NMD-promoting	0	0	1
+SRSF4	exon 3a	poison exon	SRSF10	NMD-inhibiting	0	0	0
+SRSF4	exon 3a	poison exon	SRSF11	NMD-inhibiting	0	0	0
+SRSF4	exon 3a	poison exon	SRSF12	NMD-inhibiting	0	0	0
+SRSF4	exon 3a	poison exon	SRSF2	NMD-inhibiting	0	0	0
+SRSF4	exon 3a	poison exon	SRSF3	NMD-inhibiting	0	0	0
+SRSF4	exon 3a	poison exon	SRSF4	NMD-promoting	0	0	0
+SRSF4	exon 3a	poison exon	SRSF6	NMD-promoting	0	0	0
+SRSF4	exon 3a	poison exon	SRSF7	NMD-inhibiting	0	0	0
+SRSF4	exon 3a	poison exon	SRSF8	NMD-inhibiting	0	0	0
+SRSF4	exon 3a	poison exon	SRSF9	NMD-promoting	0	0	0
+SRSF4	exon 3a	poison exon	TRA2A	NMD-inhibiting	0	0	0
+SRSF4	exon 3a	poison exon	TRA2B	NMD-inhibiting	0	0	0
+SRSF5	exon 5a	poison 3' splice site	SRSF11	NMD-inhibiting	0	0	0
+SRSF5	exon 5a	poison 3' splice site	SRSF2	NMD-promoting	0	0	0
+SRSF5	exon 5a	poison 3' splice site	SRSF3	NMD-promoting	0	0	1
+SRSF5	exon 5a	poison 3' splice site	SRSF4	NMD-promoting	0	0	0
+SRSF5	exon 5a	poison 3' splice site	SRSF5	NMD-promoting	0	0	0
+SRSF5	exon 5a	poison 3' splice site	SRSF6	NMD-promoting	0	0	1
+SRSF5	exon 5a	poison 3' splice site	SRSF7	NMD-promoting	0	0	1
+SRSF5	exon 5a	poison 3' splice site	SRSF8	NMD-promoting	0	0	0
+SRSF5	exon 5a	poison 3' splice site	SRSF9	NMD-promoting	0	0	1
+SRSF5	exon 5a	poison 3' splice site	TRA2A	NMD-inhibiting	0	0	1
+SRSF5	exon 5a	poison 3' splice site	TRA2B	NMD-inhibiting	0	0	1
+SRSF5	intron 5	intron retention	SRSF3	NMD-promoting	0	0	0
+SRSF6	exon 3a	poison exon	SRSF1	NMD-promoting	1	1	1
+SRSF6	exon 3a	poison exon	SRSF10	NMD-inhibiting	0	0	0
+SRSF6	exon 3a	poison exon	SRSF11	NMD-inhibiting	0	0	0
+SRSF6	exon 3a	poison exon	SRSF12	NMD-inhibiting	0	0	0
+SRSF6	exon 3a	poison exon	SRSF2	NMD-promoting	0	0	1
+SRSF6	exon 3a	poison exon	SRSF3	NMD-inhibiting	0	0	0
+SRSF6	exon 3a	poison exon	SRSF4	NMD-promoting	0	0	0
+SRSF6	exon 3a	poison exon	SRSF5	NMD-promoting	0	0	0
+SRSF6	exon 3a	poison exon	SRSF6	NMD-promoting	0	0	1
+SRSF6	exon 3a	poison exon	SRSF8	NMD-promoting	0	0	0
+SRSF6	exon 3a	poison exon	SRSF9	NMD-promoting	0	0	1
+SRSF6	exon 3a	poison exon	TRA2A	NMD-inhibiting	1	0	1
+SRSF6	exon 3a	poison exon	TRA2B	NMD-inhibiting	0	0	1
+SRSF7	exon 3a	poison exon	RBFOX2	NMD-inhibiting	0	0	0
+SRSF7	exon 3a	poison exon	SRSF1	NMD-inhibiting	0	1	1
+SRSF7	exon 3a	poison exon	SRSF10	NMD-inhibiting	0	0	0
+SRSF7	exon 3a	poison exon	SRSF11	NMD-inhibiting	0	0	0
+SRSF7	exon 3a	poison exon	SRSF12	NMD-inhibiting	0	0	0
+SRSF7	exon 3a	poison exon	SRSF2	NMD-inhibiting	0	0	1
+SRSF7	exon 3a	poison exon	SRSF3	NMD-promoting	0	0	0
+SRSF7	exon 3a	poison exon	SRSF4	NMD-inhibiting	0	0	0
+SRSF7	exon 3a	poison exon	SRSF5	NMD-inhibiting	0	0	1
+SRSF7	exon 3a	poison exon	SRSF6	NMD-inhibiting	0	0	1
+SRSF7	exon 3a	poison exon	SRSF7	NMD-promoting	0	1	1
+SRSF7	exon 3a	poison exon	SRSF8	NMD-inhibiting	0	0	0
+SRSF7	exon 3a	poison exon	SRSF9	NMD-inhibiting	0	1	1
+SRSF7	exon 3a	poison exon	TRA2A	NMD-inhibiting	0	0	1
+SRSF8	3'UTR	intron detention	SRSF10	NMD-inhibiting	0	0	0
+SRSF8	3'UTR	intron detention	SRSF11	NMD-promoting	0	0	0
+SRSF8	3'UTR	intron detention	SRSF2	NMD-promoting	0	0	0
+SRSF8	3'UTR	intron detention	SRSF4	NMD-promoting	0	0	0
+SRSF8	3'UTR	intron detention	SRSF5	NMD-promoting	0	0	0
+SRSF8	3'UTR	intron detention	SRSF6	NMD-promoting	0	0	0
+SRSF8	3'UTR	intron detention	SRSF7	NMD-promoting	0	0	1
+SRSF8	3'UTR	intron detention	SRSF8	NMD-promoting	0	0	0
+SRSF8	3'UTR	intron detention	SRSF9	NMD-inhibiting	0	0	1
+SRSF9	exon 3a	poison exon	SRSF10	NMD-inhibiting	0	0	0
+SRSF9	exon 3a	poison exon	SRSF11	NMD-inhibiting	0	0	0
+SRSF9	exon 3a	poison exon	SRSF12	NMD-inhibiting	0	0	0
+SRSF9	exon 3a	poison exon	SRSF4	NMD-inhibiting	0	0	0
+SRSF9	exon 3a	poison exon	SRSF5	NMD-inhibiting	0	0	0
+SRSF9	exon 3a	poison exon	SRSF6	NMD-inhibiting	0	0	0
+SRSF9	exon 3a	poison exon	SRSF9	NMD-promoting	0	1	1
+SRSF9	exon 3a	poison exon	TRA2A	NMD-inhibiting	0	0	1
+SRSF9	exon 3a	poison exon	TRA2B	NMD-inhibiting	0	0	0
+TARDBP	3'UTR	intron detention	TARDBP	NMD-promoting	1	1	1
+TIA1	exon 7a	poison exon	RBFOX2	NMD-inhibiting	0	0	0
+TIA1	exon 7a	poison exon	TIA1	NMD-promoting	1	0	0
+TRA2A	exon 2a	poison exon	RBFOX2	NMD-promoting	1	0	0
+TRA2A	exon 2a	poison exon	SRSF1	NMD-inhibiting	1	1	0
+TRA2A	exon 2a	poison exon	SRSF10	NMD-promoting	0	0	0
+TRA2A	exon 2a	poison exon	SRSF11	NMD-inhibiting	0	0	0
+TRA2A	exon 2a	poison exon	SRSF12	NMD-promoting	0	0	0
+TRA2A	exon 2a	poison exon	SRSF2	NMD-inhibiting	0	0	0
+TRA2A	exon 2a	poison exon	SRSF3	NMD-inhibiting	0	1	0
+TRA2A	exon 2a	poison exon	SRSF4	NMD-inhibiting	0	0	0
+TRA2A	exon 2a	poison exon	SRSF5	NMD-inhibiting	0	0	0
+TRA2A	exon 2a	poison exon	SRSF6	NMD-inhibiting	0	0	0
+TRA2A	exon 2a	poison exon	SRSF7	NMD-inhibiting	0	1	0
+TRA2A	exon 2a	poison exon	SRSF8	NMD-inhibiting	0	0	0
+TRA2A	exon 2a	poison exon	SRSF9	NMD-inhibiting	0	0	0
+TRA2A	exon 2a	poison exon	TRA2A	NMD-promoting	0	0	0
+TRA2A	exon 2a	poison exon	TRA2B	NMD-promoting	0	0	0
+TRA2B	exon 2	poison exon	HNRNPA1	NMD-inhibiting	1	1	0
+TRA2B	exon 2	poison exon	RBMX	NMD-inhibiting	0	0	0
+TRA2B	exon 2	poison exon	SAFB	NMD-inhibiting	0	0	0
+TRA2B	exon 2	poison exon	SFSF2	NMD-inhibiting	0	0	1
+TRA2B	exon 2	poison exon	SFSF6	NMD-inhibiting	0	0	1
+TRA2B	exon 2	poison exon	SRSF1	NMD-inhibiting	1	1	1
+TRA2B	exon 2	poison exon	SRSF10	NMD-promoting	0	0	0
+TRA2B	exon 2	poison exon	SRSF11	NMD-inhibiting	0	0	0
+TRA2B	exon 2	poison exon	SRSF12	NMD-inhibiting	0	0	0
+TRA2B	exon 2	poison exon	SRSF3	NMD-inhibiting	0	1	0
+TRA2B	exon 2	poison exon	SRSF4	NMD-inhibiting	0	0	0
+TRA2B	exon 2	poison exon	SRSF7	NMD-inhibiting	0	1	1
+TRA2B	exon 2	poison exon	SRSF8	NMD-inhibiting	0	0	0
+TRA2B	exon 2	poison exon	SRSF9	NMD-inhibiting	0	0	1
+TRA2B	exon 2	poison exon	TRA2A	NMD-promoting	0	0	0
+TRA2B	exon 2	poison exon	TRA2B	NMD-promoting	0	0	1
+U2AF1	exon 3b	poison exon	U2AF1	NMD-promoting	0	0	0

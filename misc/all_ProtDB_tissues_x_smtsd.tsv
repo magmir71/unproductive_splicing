@@ -1,0 +1,150 @@
+TISSUE_NAME	smtsd	color_code
+renal cell carcinoma cell	-	
+adrenal gland	Adrenal Gland	#8fbc8f
+amniocyte	-	
+blood	Whole Blood	#FF00FF
+ascites	-	
+bile	-	
+blood plasma	-	
+blood platelet	-	
+bone	-	
+brain	Brain - Amygdala	#EEEE00
+brain	Brain - Anterior cingulate cortex (BA24)	#EEEE00
+brain	Brain - Caudate (basal ganglia)	#EEEE00
+brain	Brain - Cerebellar Hemisphere	#EEEE00
+brain	Brain - Cerebellum	#EEEE00
+brain	Brain - Frontal Cortex (BA9)	#EEEE00
+brain	Brain - Hippocampus	#EEEE00
+brain	Brain - Hypothalamus	#EEEE00
+brain	Brain - Nucleus accumbens (basal ganglia)	#EEEE00
+brain	Brain - Putamen (basal ganglia)	#EEEE00
+brain	Brain - Substantia nigra	#EEEE00
+brain	Pituitary	#EEEE00
+breast	Breast - Mammary Tissue	#00cdcd
+breast cancer cell	-	
+cardia	-	
+cerebral cortex	Brain - Cortex	gold
+cerebrospinal fluid	-	
+cervical epithelium	-	
+colon	Colon - Sigmoid	#EEB973
+colon	Colon - Transverse	#EEB973
+cytotoxic T-lymphocyte	-	
+cervical mucosa	-	
+adipocyte	Adipose - Subcutaneous	#FFA54F
+adipocyte	Adipose - Visceral (Omentum)	#FFA54F
+gall bladder	-	
+pancreatic juice	-	
+gut	-	
+hair follicle	-	
+heart	Heart - Atrial Appendage	#B452CD
+heart	Heart - Left Ventricle	#B452CD
+nasopharynx	-	
+kidney	Kidney - Cortex	#CDB79E
+kidney	Kidney - Cortex	#CDB79E
+liver	Liver	#CDB79E
+lung	Lung	#9ACD32
+B-lymphocyte	-	
+lymph node	-	
+milk	-	
+monocyte	-	
+myometrium	-	
+natural killer cell	-	
+esophagus	Esophagus - Gastroesophageal Junction	#521E00
+esophagus	Esophagus - Mucosa	#521E00
+esophagus	Esophagus - Muscularis	#521E00
+osteosarcoma cell	-	
+ovary	Ovary	#FFB6C1
+pancreas	Pancreas	#CD9B1D
+pancreatic islet	-	
+placenta	-	
+prostate gland	Prostate	#D9D9D9
+rectum	-	
+retina	-	
+saliva	-	
+salivary gland	-	
+seminal plasma	-	
+seminal vesicle	-	
+serum	-	
+skin	Skin - Not Sun Exposed (Suprapubic)	#3A5FCD
+skin	Skin - Sun Exposed (Lower leg)	#3A5FCD
+spermatozoon	-	
+spinal cord	Brain - Spinal cord (cervical c-1)	#EEEE00
+spleen	Spleen	#778855
+stomach	Stomach	#FFD39B
+testis	Testis	#A6A6A6
+thyroid gland	Thyroid	#008B45
+tonsil	-	
+urinary bladder	Bladder	#A70000
+urine	-	
+uterine cervix	Cervix - Ectocervix	#FFCCCC
+uterine cervix	Cervix - Endocervix	#FFCCCC
+uterus	Uterus	#EED5D2
+vitreous humor	-	
+chronic lymphocytic leukemia cell	-	
+colorectal cancer cell	-	
+oral epithelium	-	
+T-cell lymphoma cell	-	
+helper T-lymphocyte	-	
+prefrontal cortex	-	
+mesenchymal stem cell	-	
+bone marrow stromal cell	-	
+colonic epithelial cell	-	
+colon muscle	-	
+Unknown	-	
+proximal fluid (coronary sinus)	-	
+ileum epithelial cell	-	
+cerumen	-	
+synovial fluid	-	
+arachnoid cyst	-	
+aqueous humour	-	
+cauline leaf	-	
+root tip	-	
+fruit valve	-	
+shoot-borne root	-	
+seminal root	-	
+L mature pollen stage	-	
+dry seed stage	-	
+vascular leaf senescence stage	-	
+mature plant embryo stage	-	
+developing seed stage	-	
+axillary vegetative bud	-	
+terminal inflorescence bud	-	
+shoot axis node	-	
+shoot axis internode	-	
+leaf collar	-	
+shoot system meristem	-	
+seed imbibition stage	-	
+LP.05 five leaves visible stage	-	
+LP.01 one leaf visible stage	-	
+LP.03 three leaves visible stage	-	
+LP.04 four leaves visible stage	-	
+seedling development stage	-	
+fruit	-	
+root	-	
+plant embryo	-	
+stamen	-	
+carpel	-	
+sepal	-	
+petal	-	
+lodicule	-	
+flower	-	
+anther	-	
+cotyledon	-	
+radicle	-	
+coleoptile	-	
+mesocotyl	-	
+petiole	-	
+leaf lamina	-	
+leaf base	-	
+flag leaf	-	
+leaf sheath	-	
+root differentiation zone	-	
+leaf apex	-	
+leaf	-	
+shoot axis internode elongation zone	-	
+embryo sac egg cell	-	
+fruit septum	-	
+pollen	-	
+seedling hypocotyl	-	
+keel	-	
+pedicel	-	

@@ -1,0 +1,52 @@
+SMTSD	rcolor	rcolor_brain	color_code	color_code_alt
+Muscle - Skeletal	slateblue2		#7A67EE	#7A67EE
+Artery - Coronary	coral2		#EE6A50	#EE6A50
+Heart - Atrial Appendage	mediumorchid3		#B452CD	#B452CD
+Adipose - Visceral (Omentum)	orange2		#EE9A00	#EE9A00
+Uterus	mistyrose2		#EED5D2	#EED5D2
+Vagina	mistyrose2		#EED5D2	#EED5D2
+Breast - Mammary Tissue	cyan3		#00CDCD	#00CDCD
+Skin - Not Sun Exposed (Suprapubic)	royalblue3		#3A5FCD	#3A5FCD
+Minor Salivary Gland			#99BB88	#99BB88
+Brain - Cortex	yellow2	cyan3	#EEEE00	#00CDCD
+Adrenal Gland	darkseagreen		#8FBC8F	#8FBC8F
+Thyroid	springgreen4		#008B45	#008B45
+Lung	olivedrab3		#9ACD32	#9ACD32
+Pancreas	goldenrod3		#CD9B1D	#CD9B1D
+Esophagus - Muscularis	burlywood3		#CDAA7D	#CDAA7D
+Esophagus - Mucosa	burlywood4		#8B7355	#8B7355
+Esophagus - Gastroesophageal Junction			#521E00	#521E00
+Stomach	burlywood1		#FFD39B	#FFD39B
+Colon - Sigmoid			#EEB973	#EEB973
+Small Intestine - Terminal Ileum			#51511D	#51511D
+Colon - Transverse	burlywood2		#EEC591	#EEC591
+Prostate	grey85		#D9D9D9	#D9D9D9
+Testis	grey65		#A6A6A6	#A6A6A6
+Adipose - Subcutaneous	tan1		#FFA54F	#FFA54F
+Skin - Sun Exposed (Lower leg)	dodgerblue		#1E90FF	#1E90FF
+Nerve - Tibial	gold1		#FFD700	#FFD700
+Artery - Tibial	red		#FF0000	#FF0000
+Heart - Left Ventricle	mediumorchid4		#7A378B	#7A378B
+Brain - Cerebellum	yellow2	magenta	#EEEE00	#FF00FF
+Whole Blood	magenta		#FF00FF	#FF00FF
+Artery - Aorta	maroon4		#8B1C62	#8B1C62
+Spleen			#778855	#778855
+Pituitary	darkseagreen2		#B4EEB4	#B4EEB4
+Ovary	lightpink		#FFB6C1	#FFB6C1
+Liver	bisque3		#CDB79E	#CDB79E
+Kidney - Cortex	bisque3		#CDB79E	#CDB79E
+Brain - Hippocampus	yellow2	springgreen4	#EEEE00	#008B45
+Brain - Substantia nigra	yellow2	grey75	#EEEE00	#BFBFBF
+Brain - Anterior cingulate cortex (BA24)	yellow2	mediumorchid3	#EEEE00	#B452CD
+Brain - Frontal Cortex (BA9)	yellow2	royalblue3	#EEEE00	#3A5FCD
+Brain - Cerebellar Hemisphere	yellow2	red	#EEEE00	#FF0000
+Brain - Caudate (basal ganglia)	yellow2	bisque3	#EEEE00	#CDB79E
+Brain - Nucleus accumbens (basal ganglia)	yellow2	burlywood4	#EEEE00	#8B7355
+Brain - Putamen (basal ganglia)	yellow2	orange2	#EEEE00	#EE9A00
+Brain - Hypothalamus	yellow2	lightgoldenrod2	#EEEE00	#EEDC82
+Brain - Spinal cord (cervical c-1)	yellow2	maroon4	#EEEE00	#8B1C62
+Brain - Amygdala	yellow2	olivedrab3	#EEEE00	#9ACD32
+Fallopian Tube	mistyrose2		#EED5D2	#EED5D2
+Bladder			#A70000	#A70000
+Cervix - Ectocervix			#FFCCCC	#FFCCCC
+Cervix - Endocervix			#CCAADD	#CCAADD
